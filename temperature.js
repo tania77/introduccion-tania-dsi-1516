@@ -23,4 +23,5 @@ function calculate() {
   else {
     alert("ERROR! Try something like '-4.2C' instead");
   }
+  return false;
 }
