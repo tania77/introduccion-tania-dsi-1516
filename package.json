@@ -1,8 +1,7 @@
 {
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "chai": "*",
+    "chai": "^3.5.0",
     "mocha": "*"
   },
   "name": "temperature",
