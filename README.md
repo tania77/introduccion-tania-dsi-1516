@@ -9,15 +9,13 @@
 * Expresiones Regulares
 * Un poquito de CSS
 * Uso de Emmet (instale el plugin para su editor)
-* Uso de Mocha y Chai 
+* Uso de Mocha y Chai
 * Uso de Gulp
 
 ### Despliegue en github.io
 
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/)
-* [http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/](http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/)
+* (https://github.com/tania77/introduccion-tania-dsi-1516)
+* (https://github.com/ULL-ESIT-GRADOII-DSI/introduccion-tania-dsi-1516)
 
-### Ejecutar las pruebas
-
-* [http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html](http://crguezl.github.io/ull-etsii-grado-pl-1213-temperature-converter/tests/index.html)
-* [http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/tests/index.html](http://ULL-ESIT-GRADOII-DSI.github.io/ull-etsii-grado-dsi-simple/tests/index.html)
+### Pagina web en gh-pages
+ * (http://tania77.github.io/introduccion-tania-dsi-1516/)
